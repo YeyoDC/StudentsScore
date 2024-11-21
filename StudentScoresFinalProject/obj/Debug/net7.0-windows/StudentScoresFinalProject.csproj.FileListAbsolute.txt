@@ -1,0 +1,23 @@
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\bin\Debug\net7.0-windows\StudentScoresFinalProject.exe
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\bin\Debug\net7.0-windows\StudentScoresFinalProject.deps.json
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\bin\Debug\net7.0-windows\StudentScoresFinalProject.runtimeconfig.json
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\bin\Debug\net7.0-windows\StudentScoresFinalProject.dll
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\bin\Debug\net7.0-windows\StudentScoresFinalProject.pdb
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\bin\Debug\net7.0-windows\Business Layer.dll
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\bin\Debug\net7.0-windows\Business Layer.pdb
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.Add_New_Student.resources
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.Add_Update.resources
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.Form1.resources
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.Update_Student_Scores.resources
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.AssemblyInfo.cs
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.csproj.CopyComplete
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.dll
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\refint\StudentScoresFinalProject.dll
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.pdb
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\StudentScoresFinalProject.genruntimeconfig.cache
+C:\Users\diego\OneDrive - NBCC\WINTER 2024\OOP\FinaProject\StudentScoresFinalProject\StudentScoresFinalProject\obj\Debug\net7.0-windows\ref\StudentScoresFinalProject.dll
